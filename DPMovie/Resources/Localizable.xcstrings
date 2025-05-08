@@ -1,0 +1,29 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%lld" : {
+
+    },
+    "Configuration loading error, please tap to Retry" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "配置加载出错，请点击重试"
+          }
+        }
+      }
+    },
+    "Popular Movies" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "流行影片"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
